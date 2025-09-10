@@ -1,0 +1,31 @@
+﻿# OS
+.DS_Store
+Thumbs.db
+
+# JetBrains / Rider
+.idea/
+*.sln.DotSettings.user
+.ReSharper*/
+*_ReSharper.Caches/
+
+# Visual Studio / VS Code (if present)
+.vs/
+.vscode/
+
+# Build output
+bin/
+obj/
+out/
+
+# Logs / temp
+*.log
+*.user
+*.suo
+*.userprefs
+
+# Node (if you have tools)
+node_modules/
+
+# Secrets (adapt to your project)
+*.env
+*.env.local
